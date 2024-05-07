@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="pmas_node" pkg="elmo_maestro_bridge" exec="pmas_node" output="screen" />
+  
+</launch>

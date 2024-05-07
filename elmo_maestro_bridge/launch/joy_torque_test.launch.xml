@@ -1,0 +1,9 @@
+<launch>
+
+  <node name="joy_node" pkg="joy" exec="joy_node" output="screen" />
+
+  <node name="pmas_node" pkg="elmo_maestro_bridge" exec="pmas_node" output="screen" />
+
+  <node name="joy_test" pkg="elmo_maestro_bridge" exec="joy_test" output="screen" />
+  
+</launch>

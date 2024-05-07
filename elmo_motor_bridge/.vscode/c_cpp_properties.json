@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shibo/dev_ws/install/elmo_maestro_bridge/include/**",
+        "/home/shibo/dev_ws/install/elmo_motor_bridge/include/**",
+        "/home/shibo/dev_ws/install/elmo_maestro_api/include/**",
+        "/home/shibo/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/shibo/catkin_ws/src/any_node/any_node/include/**",
+        "/home/shibo/catkin_ws/src/any_node/any_node_example/include/**",
+        "/home/shibo/catkin_ws/src/any_node/any_worker/include/**",
+        "/home/shibo/catkin_ws/src/elmo_ethercat_sdk/include/**",
+        "/home/shibo/catkin_ws/src/ethercat_device_configurator/include/**",
+        "/home/shibo/catkin_ws/src/ethercat_sdk_master/include/**",
+        "/home/shibo/catkin_ws/src/message_logger/include/**",
+        "/home/shibo/catkin_ws/src/any_node/param_io/include/**",
+        "/home/shibo/catkin_ws/src/any_node/signal_handler/include/**",
+        "/home/shibo/catkin_ws/src/soem_interface/soem_interface/include/**",
+        "/home/shibo/catkin_ws/src/soem_interface/soem_interface_examples/include/**",
+        "/home/shibo/catkin_ws/src/soem_interface/soem/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
